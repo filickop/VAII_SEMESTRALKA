@@ -1,0 +1,51 @@
+body {
+    background-color: blue;
+}
+.navbar {
+    background: darkblue;
+}
+.navbar-logo {
+    font-weight: bold;
+    color: yellow;
+}
+.navbar-logo:hover {
+    color: yellow;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: yellow;
+}
+
+.carousel {
+    margin-bottom: 50px;
+}
+.carousel-img1 {
+    background-image: url("images/supra.jpg");
+    background-size: cover;
+
+}
+.carousel-img2 {
+    background-image: url("images/mclaren.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-img3 {
+    background-image: url("images/porsche.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.carousel-item {
+    height: 500px;
+}
+.footer {
+    background-color: slategrey;
+    margin-bottom: 0;
+    padding-bottom: 0;
+
+}
