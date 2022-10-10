@@ -43,9 +43,20 @@ body {
 .carousel-item {
     height: 500px;
 }
-.footer {
-    background-color: slategrey;
-    margin-bottom: 0;
-    padding-bottom: 0;
+.search-form {
+    margin-top: 50px;
+}
+.search-form select {
+    width: 50%;
+    margin: 5px auto;
+}
+.search-btn {
+    margin-top: 5px;
+}
+label {
+    color: white;
+}
 
+.txt {
+    color: white;
 }
