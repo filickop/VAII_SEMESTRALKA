@@ -60,3 +60,7 @@ label {
 .txt {
     color: white;
 }
+.svg-img {
+    background-image: url("images/skoda-felicia_58-clanokW.jpg");
+    background-size: cover;
+}
